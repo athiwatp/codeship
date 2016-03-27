@@ -1,0 +1,22 @@
+{
+  "name": "codeship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infernalslam/codeship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infernalslam/codeship/issues"
+  },
+  "homepage": "https://github.com/infernalslam/codeship#readme",
+  "dependencies": {
+    "nvm": "0.0.3"
+  }
+}
