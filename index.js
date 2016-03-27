@@ -1,10 +1,10 @@
-/* global describe it assert */
-var num1 = 0
-var num2 = 0
+/* global describe it  */
+var num1 = 1
+var num2 = 2
 function sum (num1, num2) {
   return num1 + num2
 }
-console.log(sum(num1, num2))
+// console.log(sum(num1, num2))
 var assert = require('assert')
 describe('sum function', function () {
   describe('sum()', function () {
